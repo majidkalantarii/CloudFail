@@ -53,9 +53,5 @@ To run a scan against a target using Tor:
 * requests
 * win_inet_pton
 
-## Donate BTC
-> 13eiCHxmAEaRZDXcgKJVtVnCKK5mTR1u1F
-
-Buy me a beer or coffee... or both! 
-If you donate send me a message and I will add you to the credits!
-Thank YOU!
+## Telegram
+* @sagheb
